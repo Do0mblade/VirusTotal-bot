@@ -1,0 +1,4 @@
+
+
+TOKEN = '6065264719:AAGuzth3_oxPAd0cDde3wvyps9kNkw3qtYY'
+VIRUSTOTAL_API = 'c8484b9f616612e1beff2cad4e8c6ba712a88dc6e4f18baacec490be63a1b8a6'
